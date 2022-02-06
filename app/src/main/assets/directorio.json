@@ -1,0 +1,120 @@
+[
+  {
+    "nombre":"Fondo Semillas siembra igualdad",
+    "direccion":"Fragonard 84, Col. San Juan, 03730 Ciudad de México",
+    "imagen":"1_fondo.png",
+    "url":"https://semillas.org.mx/dona/?gclid=Cj0KCQiA9OiPBhCOARIsAI0y71CyMjIU1km-gxMVe2uZZYUg35brXsD3PPXTyjR8-BdU-0s6zGoCSkAaAv3xEALw_wcB",
+    "telefono":[],
+    "categoria":["educacion","salud","empleo"],
+    "direccionURL":"https://goo.gl/maps/zUYZz8GUaLAJ1icdA"
+  },
+
+  {
+    "nombre":"ONU mujeres",
+    "direccion":"Calzada General Mariano Escobedo 526, Anzures, Delegación MIguel Hidaglo, CP, 11590, CDMX.",
+    "imagen":"1_fondo.png",
+    "url":"https://mexico.unwomen.org/es",
+    "telefono":[],
+    "categoria":["violencia"],
+    "direccionURL":"https://goo.gl/maps/xSZxTrxbxoqzSXCy5"
+  },
+  
+
+  {
+    "nombre":"PSYDEH",
+    "direccion":"Av. Horacio 543, #601, Colonia Polanco, Miguel Hidalgo, CP 11550. 21 de Marzo No. 1314, Colonia Insurgentes, Tulancingo de Bravo, Hidalgo, México, CP 43630",
+    "imagen":"3_PSYDEH.png",
+    "url":"https://www.psydeh.org/es/?gclid=Cj0KCQiA9OiPBhCOARIsAI0y71CFIZbeZBBEVaAyvZ2gXUD18Bb6qye-enFi4E5U_OCVyCBG4B0-FDUaAtw1EALw_wcB",
+    "telefono":["52 775 688 0255"],
+    "categoria":["Empoderamiento"],
+    "direccionURL":"https://goo.gl/maps/Ac2iXvypGk5qedcW7"
+},
+
+  {
+    "nombre":"Comunal",
+    "direccion":"Sin datos",
+    "imagen":"4_comunal.png",
+    "url":"https://comunal.social",
+    "telefono":["5586992389"],
+    "categoria":["violencia"],
+    "direccionURL":""
+  },
+
+  {
+    "nombre":"Sinatra",
+    "direccion":"Dr. Carmona y Valle 147, Doctores, 06720, Ciudad de México, México.",
+    "imagen":"5_sinatra.png",
+    "url":"https://sintrata.org/",
+    "telefono":[],
+    "categoria":["Violencia"],
+    "direccionURL":"https://goo.gl/maps/AydtNQsB4xQSqbwe6"
+  },
+  {
+    "nombre":"La Cana",
+    "direccion":"",
+    "imagen":"6_cana.png",
+    "url":"https://lacana.mx/",
+    "telefono":["52027005"],
+    "categoria":["Reinseción"],
+    "direccionURL":""
+  },
+
+  {
+    "nombre":"Daya",
+    "direccion":"Puebla #77 Colonia Cuajimalpa Alcaldía Cuajimalpa de Morelos C.P. 05000 Ciudad de México",
+    "imagen":"7_daya.png",
+    "url":"http://www.daya.org.mx/",
+    "telefono":["5521630436", "5558124934"],
+    "categoria":["violencia"],
+    "direccionURL":"https://goo.gl/maps/sTqvEhk8MUX4BugS9"
+  },
+
+  
+
+  
+
+ 
+
+   
+
+    {
+      "nombre":"Musgo diseño artesanal",
+      "direccion":"Tecoyotitla 154, 01030 Ciudad de México",
+      "imagen":"8_musgo.png",
+      "url":"https://musgomexico.com/",
+      "telefono":["55 3048 3442"],
+      "categoria":["economia"],
+      "direccionURL":"https://goo.gl/maps/BVsgoAt2f6gaYo7v6"
+    },
+
+    {
+      "nombre":"Cima",
+      "direccion":"Vicente Suárez 160 int PH-3, Condesa, Cuauhtémoc",
+      "imagen":"9_cima.png",
+      "url":"https://www.cimafundacion.org/",
+      "telefono":["55 5574 9058"],
+      "categoria":["salud"],
+      "direccionURL":"https://goo.gl/maps/eVrbq5qSVcoQM1o87"
+          },
+
+    {
+      "nombre":"Reinserta",
+        "direccion":"",
+        "imagen":"10_reinserta.png",
+        "url":"https://reinserta.org/",
+        "telefono":["52 52021851"],
+        "categoria":["reinsercion"],
+        "direccionURL":""
+    },
+
+    {
+      "nombre":"Vifac",
+      "direccion":"",
+      "imagen":"11_vifac.png",
+      "url":"https://www.vifac.org/es",
+      "telefono":["(449) 971-8660"],
+      "categoria":["salud"],
+      "direccionURL":"https://goo.gl/maps/omqSDsd7acGHnGpP6"
+    }
+    ]
+ 

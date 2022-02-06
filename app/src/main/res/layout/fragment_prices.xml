@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:text="@string/descriptionPrices"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4">
+        <Button
+            android:id="@+id/btnToallas"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="?android:attr/selectableItemBackground"
+
+            android:text="Toallas"
+            android:textSize="50dp"
+            android:textStyle="bold"
+            android:textColor="#F88BC2"
+            />
+        <ImageButton
+            android:layout_width="match_parent"
+            android:alpha="0.3"
+            android:layout_height="match_parent"
+            android:background="@drawable/toalla"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4">
+        <Button
+            android:id="@+id/btnTampones"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="?android:attr/selectableItemBackground"
+
+            android:text="@string/tampones"
+            android:textSize="50dp"
+            android:textStyle="bold"
+            android:textColor="#F88BC2"
+            >
+        </Button>
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/tampon"
+            android:alpha="0.3"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4">
+        <Button
+            android:id="@+id/btnCopa"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="50dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:textStyle="bold"
+            android:textColor="#F88BC2"
+            android:text="@string/copa" />
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/copa"
+            android:alpha="0.3"
+            />
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
